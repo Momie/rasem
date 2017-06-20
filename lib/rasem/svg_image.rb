@@ -67,6 +67,7 @@ Rasem::CSS_STYLE = [
   :stroke_width,
   :stroke,
   :fill_opacity,
+  :stroke_dasharray,
   :stroke_opacity,
   :opacity,
 ]
